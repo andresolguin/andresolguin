@@ -10,7 +10,7 @@ I build and validate **ETL/ELT pipelines** with **Databricks, PySpark, Python an
 
 My professional background combines cloud data workflows, data operations and technical coordination. I have worked with Azure Data Factory, ADLS Gen2, Azure Databricks, Azure DevOps and PostgreSQL on AWS RDS, alongside Python/SQL validation and operational documentation.
 
-**Argentina · Open to remote Data Engineer opportunities · English, Spanish and Portuguese**
+**Open to remote Data Engineer opportunities · English, Spanish and Portuguese**
 
 ## Core stack
 

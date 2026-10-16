@@ -10,7 +10,7 @@ Desarrollo y valido **pipelines ETL/ELT** con **Databricks, PySpark, Python y SQ
 
 Mi experiencia profesional combina workflows de datos en la nube, operaciones de datos y coordinación técnica. Trabajé con Azure Data Factory, ADLS Gen2, Azure Databricks, Azure DevOps y PostgreSQL sobre AWS RDS, junto con validaciones en Python/SQL y documentación operativa.
 
-**Argentina · Disponible para oportunidades remotas como Data Engineer · Inglés, español y portugués**
+**Disponible para oportunidades remotas como Data Engineer · Inglés, español y portugués**
 
 ## Stack principal
 
