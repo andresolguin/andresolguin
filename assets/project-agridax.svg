@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title">
+<title id="title">AgriDax Data Platform — agricultural analytics with Python, PostgreSQL, dbt and Docker</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a2545"/><stop offset="1" stop-color="#081329"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#a78bfa" stop-opacity="0.16"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient></defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="1" y="1" width="998" height="518" rx="28" fill="url(#bg)" stroke="#a78bfa" stroke-opacity="0.65" stroke-width="2"/>
+<ellipse cx="890" cy="90" rx="330" ry="280" fill="url(#glow)"/>
+<g fill="none" stroke="#a78bfa" opacity="0.12"><circle cx="1020" cy="-20" r="260"/><circle cx="1020" cy="-20" r="310"/><circle cx="1020" cy="-20" r="360"/></g>
+<text x="48" y="56" font-size="20" fill="#c4b5fd" font-weight="700" letter-spacing="2">02 / DATA ENGINEERING</text>
+<text x="48" y="133" font-size="66" fill="#f8fafc" font-weight="700">AgriDax</text>
+<text x="48" y="208" font-size="66" fill="#6ee7df" font-weight="700">Data Platform</text>
+<text x="48" y="252" font-size="27" fill="#b8cce2" font-weight="400">Field events · weather · crop cycles</text>
+<rect x="48" y="300" width="275" height="124" rx="17" fill="#a9d5fb" fill-opacity="0.07" stroke="#a9d5fb" stroke-opacity="0.7" stroke-width="2"/>
+<text x="70" y="346" font-size="27" fill="#a9d5fb" font-weight="700">HISTORY</text>
+<text x="70" y="388" font-size="23" fill="#dbeafe" font-weight="400">Temporal models</text>
+<rect x="358" y="300" width="275" height="124" rx="17" fill="#b5a2f6" fill-opacity="0.07" stroke="#b5a2f6" stroke-opacity="0.7" stroke-width="2"/>
+<text x="380" y="346" font-size="27" fill="#b5a2f6" font-weight="700">QUALITY</text>
+<text x="380" y="388" font-size="23" fill="#dbeafe" font-weight="400">Explicit rules</text>
+<rect x="668" y="300" width="275" height="124" rx="17" fill="#62e5d6" fill-opacity="0.07" stroke="#62e5d6" stroke-opacity="0.7" stroke-width="2"/>
+<text x="690" y="346" font-size="27" fill="#62e5d6" font-weight="700">PUBLISH</text>
+<text x="690" y="388" font-size="23" fill="#dbeafe" font-weight="400">Transactions</text>
+<text x="48" y="480" font-size="22" fill="#8bd8ec" font-weight="700" letter-spacing="1">PYTHON · POSTGRESQL · DBT · DOCKER</text>
+</g></svg>

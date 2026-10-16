@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title">
+<title id="title">Databricks Medallion Lakehouse — sales analytics with Bronze, Silver and Gold layers</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a2545"/><stop offset="1" stop-color="#081329"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#39d8ef" stop-opacity="0.16"/><stop offset="1" stop-color="#39d8ef" stop-opacity="0"/></radialGradient></defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="1" y="1" width="998" height="518" rx="28" fill="url(#bg)" stroke="#39d8ef" stroke-opacity="0.65" stroke-width="2"/>
+<ellipse cx="890" cy="90" rx="330" ry="280" fill="url(#glow)"/>
+<g fill="none" stroke="#39d8ef" opacity="0.12"><circle cx="1020" cy="-20" r="260"/><circle cx="1020" cy="-20" r="310"/><circle cx="1020" cy="-20" r="360"/></g>
+<text x="48" y="56" font-size="20" fill="#7dd3fc" font-weight="700" letter-spacing="2">01 / DATA ENGINEERING</text>
+<text x="48" y="133" font-size="66" fill="#f8fafc" font-weight="700">Medallion</text>
+<text x="48" y="208" font-size="66" fill="#6ee7f2" font-weight="700">Lakehouse</text>
+<text x="48" y="252" font-size="27" fill="#b8cce2" font-weight="400">Sales analytics · Spark + Delta</text>
+<rect x="48" y="300" width="275" height="124" rx="17" fill="#efb578" fill-opacity="0.07" stroke="#efb578" stroke-opacity="0.7" stroke-width="2"/>
+<text x="70" y="346" font-size="27" fill="#efb578" font-weight="700">BRONZE</text>
+<text x="70" y="388" font-size="23" fill="#dbeafe" font-weight="400">Raw observations</text>
+<path d="M328 362h24m-8-8 8 8-8 8" fill="none" stroke="#43e6df" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="358" y="300" width="275" height="124" rx="17" fill="#a9d5fb" fill-opacity="0.07" stroke="#a9d5fb" stroke-opacity="0.7" stroke-width="2"/>
+<text x="380" y="346" font-size="27" fill="#a9d5fb" font-weight="700">SILVER</text>
+<text x="380" y="388" font-size="23" fill="#dbeafe" font-weight="400">Quality decisions</text>
+<path d="M638 362h24m-8-8 8 8-8 8" fill="none" stroke="#43e6df" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="668" y="300" width="275" height="124" rx="17" fill="#f4d477" fill-opacity="0.07" stroke="#f4d477" stroke-opacity="0.7" stroke-width="2"/>
+<text x="690" y="346" font-size="27" fill="#f4d477" font-weight="700">GOLD</text>
+<text x="690" y="388" font-size="23" fill="#dbeafe" font-weight="400">Star schema</text>
+<text x="48" y="480" font-size="22" fill="#8bd8ec" font-weight="700" letter-spacing="1">DATABRICKS · PYSPARK · DELTA LAKE</text>
+</g></svg>
