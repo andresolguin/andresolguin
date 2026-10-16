@@ -1,6 +1,6 @@
-![Andrés Olguín — Data Engineer. Databricks, PySpark, SQL, Python and Delta Lake.](assets/data-engineer-banner.png)
+![Andres Olguin — Data Engineer. Databricks, PySpark, SQL, Python and Delta Lake.](assets/data-engineer-banner.png)
 
-# Andrés Olguín · Data Engineer
+# Andres Olguin · Data Engineer
 
 **English** · [Español](README.es.md)
 
